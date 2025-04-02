@@ -70,13 +70,13 @@
 
 ###
 
-<h2 align="left">🌷𝑀𝑖𝑠 𝑠𝑡𝑎𝑡𝑠 ⋆⁺₊✧</h2>
+<h2 align="left">🍓𝑀𝑖𝑠 𝑠𝑡𝑎𝑡𝑠 ⋆⁺₊✧</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="170" src="https://i.pinimg.com/736x/46/4c/5f/464c5f9b26ac16b8a7043d2997b1ce68.jpg"  />
+<img align="right" height="170" src="https://i.pinimg.com/736x/7c/bc/c0/7cbcc05123ae9fa9bfeda194816fef3a.jpg"  />
 
 ###
 
