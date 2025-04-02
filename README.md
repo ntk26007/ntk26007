@@ -61,13 +61,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ntk26007/ntk26007/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🌷𝑀𝑖𝑠 𝑠𝑡𝑎𝑡𝑠 ⋆⁺₊✧</h3>
+<h2 align="left">🌷𝑀𝑖𝑠 𝑠𝑡𝑎𝑡𝑠 ⋆⁺₊✧</h2>
 
 ###
 
@@ -86,15 +80,5 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntk26007&radius=16&theme=redical&area=true&order=5" height="209" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ntk26007/ntk26007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ntk26007/ntk26007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ntk26007/ntk26007/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
