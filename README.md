@@ -53,10 +53,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank">
+  <a href="https://www.linkedin.com/in/luc%C3%ADa-pasc-206b12320/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="Discordapp/users/703934844459155536" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <a href="https://www.youtube.com/@neol9568" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
