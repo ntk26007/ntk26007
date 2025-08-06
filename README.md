@@ -74,19 +74,22 @@
 
 <h2 align="left">🍓𝑀𝑖𝑠 𝑠𝑡𝑎𝑡𝑠 ⋆⁺₊✧</h2>
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/7c/bc/c0/7cbcc05123ae9fa9bfeda194816fef3a.jpg" height="200" alt="Imagen decorativa" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</div>
+###
 
-<br>
+<br clear="both">
+
+<img align="right" height="170" src="https://i.pinimg.com/736x/7c/bc/c0/7cbcc05123ae9fa9bfeda194816fef3a.jpg"  />
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ntk26007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-<br>
+###
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntk26007&radius=16&theme=redical&area=true&order=5" height="209" alt="activity-graph graph"  />
 </div>
 
+###
