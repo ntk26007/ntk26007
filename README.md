@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img align="right" height="170" src="https://i.pinimg.com/736x/7c/bc/c0/7cbcc05123ae9fa9bfeda194816fef3a.jpg"  />
+<img align="right" src="https://i.pinimg.com/736x/7c/bc/c0/7cbcc05123ae9fa9bfeda194816fef3a.jpg" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"  />
 
 ###
 
