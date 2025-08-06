@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">♡.˚ Soy Lucía, actualmente estudiante en Asturias con objetivo de fullstack y diseño. Enfocada especialemente en la parte frontend</p>
+<p align="left">♡.˚ Soy Lucía, actualmente estudiante con objetivo de fullstack y diseño. Enfocada especialemente en la parte frontend</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">♡.˚ Estudiante de desarrollo de Software y aplicaciones multiplataforma<br>♡.˚ Amplio mi aprendizaje en el ámbito de ia generativa<br>♡.˚ Proceso de uso de Blender (animación) <br>♡.˚ Tiempo libre: arte, videojuegos, lectura, manualidades</p>
+<p align="left">♡.˚ Estudiante de desarrollo de Software y aplicaciones multiplataforma<br>♡.˚ Amplio mi aprendizaje en el ámbito de ia generativa y en la animación 3D<br>♡.˚ Proceso de desarrollo de mi propia marca <br>♡.˚ Tiempo libre: arte, videojuegos, lectura, manualidades</p>
 
 ###
 
