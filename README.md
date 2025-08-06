@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">♡.˚ Curso completo de IA generativa en Udemy<br><br>♡.˚ Link: https://www.udemy.com/certificate/UC-c7797ef3-c4ae-4d1d-8ad6-f3da64160830/</p>
+<p align="left">♡.˚ Curso completo de IA generativa en Udemy<br><br>♡.˚ Link: https://www.udemy.com/certificate/UC-c7797ef3-c4ae-4d1d-8ad6-f3da64160830/<br>♡.˚ Sony Pictures Animation SPAI Certificate<br></p>
 
 ###
 
