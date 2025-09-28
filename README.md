@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">♡.˚ Estudiante de desarrollo de Software y aplicaciones multiplataforma<br>♡.˚ Amplio mi aprendizaje en el ámbito de ia generativa y en la animación 3D<br>♡.˚ Proceso de desarrollo de mi propia marca <br>♡.˚ Tiempo libre: arte, videojuegos, lectura, manualidades</p>
+<p align="left">♡.˚ Estudiante de desarrollo de Software y aplicaciones multiplataforma<br>♡.˚ Amplio mi aprendizaje en el ámbito de ia generativa y en la animación 3D<br>♡.˚ Proceso de desarrollo de mi propia marca -> https://linktr.ee/catelier_arts <br>♡.˚ Tiempo libre: arte, videojuegos, lectura, manualidades</p>
 
 ###
 
