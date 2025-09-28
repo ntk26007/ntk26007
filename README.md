@@ -68,6 +68,9 @@
   <a href="https://www.twitch.tv/neo_l777" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
+  <a>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N41LT6FJ)
+  </a>
 </div>
 
 ###
